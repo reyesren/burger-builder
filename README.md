@@ -1,6 +1,8 @@
 # BurgerBuilder
 
-*BurgerBuilder* is a web application that simulates a user building a burger they wish to order, then taking the user to checkout to fill in contact data, then submitting the burger to order. The front end was built with React, and the backend uses Firebase.
+*BurgerBuilder* is a web application that simulates a user building a burger they wish to order, then taking the user to checkout to fill in contact data, then submitting the burger to order. 
+
+The front end was built with React, and the backend uses Firebase.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
